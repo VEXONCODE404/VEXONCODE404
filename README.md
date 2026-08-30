@@ -1,12 +1,10 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:0F172A,85:1E293B,100:00E5FF&height=200&section=header&text=VEXONCODE404&fontSize=50&fontColor=00E5FF&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%C2%B7%20SYSTEMS%20ARCHITECT%20%C2%B7%20FULL-STACK%20ENGINEERING&descFontSize=14&descAlignY=66&descAlign=50" width="100%" alt="VEXONCODE404 Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:0F172A,85:1E293B,100:00E5FF&height=200&section=header&text=ENGINEER%20%7C%20ARCHITECT&fontSize=48&fontColor=00E5FF&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%C2%B7%20SYSTEMS%20ARCHITECT%20%C2%B7%20FULL-STACK%20ENGINEERING&descFontSize=14&descAlignY=66&descAlign=50" width="100%" alt="Profile Banner" />
 
   <!-- Dynamic Typing Subtitle -->
-  <a href="https://github.com/VEXONCODE404">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=1100&color=00E5FF&center=true&vCenter=true&width=700&lines=Architecting+scalable+digital+systems;Engineering+resilient+APIs+and+backend+services;Designing+secure+enterprise+applications;Building+multi-platform+software+ecosystems;Optimizing+performance+from+code+to+infrastructure" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=1100&color=00E5FF&center=true&vCenter=true&width=700&lines=Architecting+scalable+digital+systems;Engineering+resilient+APIs+and+backend+services;Designing+secure+enterprise+applications;Building+multi-platform+software+ecosystems;Optimizing+performance+from+code+to+infrastructure" alt="Typing SVG" />
 
   <br/><br/>
 
@@ -90,7 +88,9 @@ Software Engineer and Systems Architect with a disciplined focus on building res
 
 ## 🏗️ Selected Engineering Systems
 
-### `01` — Competition Intelligence Engine
+> أسماء المشاريع أدناه وصفية فقط لحماية الخصوصية — لا تشير إلى أسماء حقيقية لمنتجات أو عملاء.
+
+### `01` — Real-Time Evaluation Platform
 * **Domain:** Evaluation & real-time workflow systems
 * **Engineering Focus:** Scoring workflows, ranking pipelines, role-based operations, digital validation
 * **Architecture:** Modular backend with asynchronous event processing and centralized persistence
@@ -99,7 +99,7 @@ Software Engineer and Systems Architect with a disciplined focus on building res
 
 ---
 
-### `02` — Enterprise Operations Core
+### `02` — Enterprise Resource & Workflow Suite
 * **Domain:** Institutional resource & workflow management
 * **Engineering Focus:** Granular authorization, multi-level approvals, audit trails, lifecycle tracking
 * **Architecture:** Modular monolith designed with clear bounded contexts
@@ -108,7 +108,7 @@ Software Engineer and Systems Architect with a disciplined focus on building res
 
 ---
 
-### `03` — Intelligent Guidance Engine
+### `03` — Adaptive Recommendation Engine
 * **Domain:** Assessment, profiling and recommendation systems
 * **Engineering Focus:** Multi-criteria evaluation heuristics, dynamic profiling, responsive analytical reporting
 * **Architecture:** Decoupled service engine with asynchronous scoring routines
@@ -117,7 +117,7 @@ Software Engineer and Systems Architect with a disciplined focus on building res
 
 ---
 
-### `04` — Residential Operations Core
+### `04` — Facility Access & Occupancy System
 * **Domain:** Occupancy, accommodation and facility management
 * **Engineering Focus:** Identity verification, access management, occupancy monitoring, scheduling
 * **Architecture:** Synchronized multi-platform desktop client with centralized database endpoints
@@ -126,7 +126,7 @@ Software Engineer and Systems Architect with a disciplined focus on building res
 
 ---
 
-### `05` — Digital Learning Ecosystem
+### `05` — Digital Learning & Content Platform
 * **Domain:** Learning, competency and digital content distribution
 * **Engineering Focus:** Modular curricula structures, milestone tracking, learner progress analytics
 * **Architecture:** Layered service model with optimized media delivery and session isolation
@@ -135,7 +135,7 @@ Software Engineer and Systems Architect with a disciplined focus on building res
 
 ---
 
-### `06` — Connected Systems Lab
+### `06` — IoT Telemetry & Streaming Gateway
 * **Domain:** IoT telemetry, real-time communication and media delivery
 * **Engineering Focus:** Sensor ingestion pipelines, bi-directional telemetry streaming, streaming feeds
 * **Architecture:** WebSocket messaging gateway paired with an optimized media server layer
@@ -229,22 +229,6 @@ flowchart TD
 > *"Good architecture makes change cheaper."*
 
 ---
-
-## 🌐 Transmission & Connectivity
-
-<div align="center">
-
-  <a href="https://github.com/VEXONCODE404">
-    <img src="https://img.shields.io/badge/GitHub-VEXONCODE404-00E5FF?style=for-the-badge&logo=github&logoColor=090D16" alt="GitHub Profile" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/VEXONCODE404?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore%20Code-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
-  </a>
-
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:1E293B,100:090D16&height=50&section=footer" width="100%" alt="Footer" />
