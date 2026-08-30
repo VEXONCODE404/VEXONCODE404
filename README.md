@@ -1,204 +1,268 @@
 <div align="center">
 
-  <!-- Futuristic Cyber Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,40:0D1B2A,70:1B263B,100:00E5FF&height=220&section=header&text=VEXONCODE404&fontSize=56&fontColor=00E5FF&fontAlignY=45&animation=fadeIn&desc=%E2%96%B6%20LEAD%20SYSTEMS%20ARCHITECT%20%26%20FULL-STACK%20ENGINEER%20%E2%97%80&descFontSize=16&descAlignY=68&descAlign=50" width="100%" alt="VEXONCODE404 Banner" />
+  <!-- Hero Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,45:0F172A,80:1E293B,100:00E5FF&height=220&section=header&text=VEXONCODE404&fontSize=54&fontColor=00E5FF&fontAlignY=44&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%C2%B7%20SYSTEMS%20ARCHITECT%20%C2%B7%20FULL-STACK%20ENGINEERING&descFontSize=15&descAlignY=68&descAlign=50" width="100%" alt="VEXONCODE404 Header Banner" />
 
-  <!-- Animated High-Tech Typing Terminal -->
+  <!-- Animated Typing Line -->
   <a href="https://github.com/VEXONCODE404">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=%3E_Architecting+Distributed+Enterprise+SaaS+Platforms;%3E_Full-Stack+High-Concurrency+Microservices+%26+APIs;%3E_Hardened+Zero-Trust+Security%2C+RBAC+%26+Cloud+DevOps;%3E_Multi-Platform+Solutions+%7C+Web+%E2%80%A2+Mobile+%E2%80%A2+IoT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=1200&color=00E5FF&center=true&vCenter=true&width=780&lines=Architecting+scalable+enterprise+digital+systems;Engineering+resilient+APIs+and+distributed+services;Designing+secure%2C+high-availability+cloud+platforms;Building+multi-platform+software+ecosystems" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Status Indicators -->
+  <!-- Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/CORE-SYSTEMS%20ARCHITECT-00E5FF?style=for-the-badge&logo=cpu&logoColor=090D16&labelColor=090D16" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20HIGH--IMPACT%20VENTURES-7928CA?style=for-the-badge&logo=rocket&logoColor=white&labelColor=090D16" />
-    <img src="https://img.shields.io/badge/AWARD-1ST%20PLACE%20HACKATHON%20WINNER-FFB703?style=for-the-badge&logo=trophy&logoColor=090D16&labelColor=090D16" />
+    <a href="https://github.com/VEXONCODE404"><img src="https://img.shields.io/badge/IDENTITY-VEXONCODE404-00E5FF?style=flat-square&logo=github&logoColor=090D16&labelColor=090D16" alt="Identity Badge"/></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/FOCUS-ENTERPRISE%20SYSTEMS-7928CA?style=flat-square&logo=buffer&logoColor=white&labelColor=090D16" alt="Focus Badge"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/PARADIGM-CLEAN%20ARCHITECTURE-10B981?style=flat-square&logo=diagram-project&logoColor=white&labelColor=090D16" alt="Architecture Badge"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/SECURITY-ZERO%20TRUST%20%26%20RBAC-F59E0B?style=flat-square&logo=auth0&logoColor=white&labelColor=090D16" alt="Security Badge"/>
   </p>
 
 </div>
 
 ---
 
-### ⚡ Executive Terminal
+## ⚡ Engineering Profile
 
-```typescript
-interface LeadEngineer {
-  handle: "VEXONCODE404";
-  discipline: "Systems Architecture • Cloud Computing • Full-Stack Engineering";
-  stack: ["PHP / Laravel", "C# / ASP.NET", "Java", "TypeScript / JS", "Flutter", "SQL / Redis"];
-  architecture_paradigms: [
-    "Clean Architecture",
-    "Domain-Driven Design (DDD)",
-    "Event-Driven Microservices",
-    "Zero-Trust Access Control (RBAC / MFA)",
-    "High-Availability Cloud Infrastructure"
-  ];
-  operational_status: "Deploying enterprise-grade software engines and distributed solutions";
-}
-```
+Software Engineer and Systems Architect focused on the end-to-end design, development, and scaling of robust digital platforms, multi-tenant enterprise architectures, and distributed web services. 
+
+Specialized in full-stack system design, high-concurrency API engineering, database schema optimization, multi-platform development, and hardened security controls. Dedicated to transforming complex domain requirements into resilient, clean-coded, and production-grade software engines.
 
 ---
 
-### 🛠️ Technology Stack & Core Arsenal
+## 🧩 Engineering DNA
 
 <div align="center">
 
-#### 💻 Core Programming Languages
+| Core Principle | Engineering Execution |
+| :--- | :--- |
+| **Clean Architecture & DDD** | Strict separation of domain entities, business logic, interfaces, and infrastructure layers. |
+| **API-First & Microservices** | Contract-driven RESTful architectures, event messaging, and low-latency payload serialization. |
+| **Secure-by-Design** | Multi-factor authentication (MFA), granular role-based access control (RBAC), and rigorous audit trails. |
+| **High Availability & Scale** | Asynchronous task workers, distributed Redis caching, and connection pooling. |
+| **Data Integrity & Consistency**| ACID-compliant relational schemas, optimized indexing, and robust transaction boundaries. |
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Backend & Core Systems
 <p>
-  <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23_.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java_EE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%20%2F%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Engine-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
-#### ⚡ Enterprise Frameworks & Platforms
+### Frontend & Multi-Platform
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Progressive_Web_App-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_&_WebSockets-00E5FF?style=for-the-badge&logo=fastapi&logoColor=090D16" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Progressive_Web_Apps-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
 </p>
 
-#### 🗄️ High-Volume Databases & Cache
+### Databases, Storage & Caching
 <p>
-  <img src="https://img.shields.io/badge/MySQL_Enterprise-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/HFSQL-0A84FF?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Engines-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HFSQL-0A84FF?style=flat-square&logo=database&logoColor=white" />
 </p>
 
-#### ☁️ Cloud, DevOps & Hardened Infrastructure
+### Infrastructure, Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Huawei_Cloud-C7000B?style=for-the-badge&logo=huawei&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx_Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git_&_GitHub_Actions-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zero_Trust_Security-008080?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Huawei_Cloud-C7000B?style=flat-square&logo=huawei&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git_VCS-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-### 📂 Featured Production Projects
+## 🏗️ Selected Engineering Systems
 
-<table width="100%">
-  <thead>
-    <tr style="background-color: #0D1B2A;">
-      <th align="left" width="10%">#</th>
-      <th align="left" width="30%">Project Identifier</th>
-      <th align="left" width="40%">Architecture & Capabilities</th>
-      <th align="left" width="20%">Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code>01</code></td>
-      <td><b>Project 1: WSAP Core</b><br/><sub>Competition & Real-Time Scoring Platform</sub></td>
-      <td>Multi-tier distributed competition engine engineered for real-time candidate evaluation, automated scoring pipelines, and instant tamper-proof certification generation.</td>
-      <td><code>Laravel</code> <code>Redis</code> <code>REST API</code> <code>MySQL</code></td>
-    </tr>
-    <tr>
-      <td><code>02</code></td>
-      <td><b>Project 2: Tassyir ERP</b><br/><sub>Enterprise Cloud ERP System</sub></td>
-      <td>Modular Enterprise Resource Planning platform providing real-time resource allocation, automated billing workflows, deep financial audit trails, and multi-tenant telemetry.</td>
-      <td><code>PHP</code> <code>ASP.NET</code> <code>MariaDB</code> <code>RBAC</code></td>
-    </tr>
-    <tr>
-      <td><code>03</code></td>
-      <td><b>Project 3: Tawjih AI Engine</b><br/><sub>Smart Assessment & Profiling Platform</sub></td>
-      <td>Intelligent algorithmic evaluation engine with automated candidate profiling, analytical dashboards, and adaptive decision-support recommendation algorithms.</td>
-      <td><code>Full-Stack</code> <code>Data Pipeline</code> <code>PWA</code></td>
-    </tr>
-    <tr>
-      <td><code>04</code></td>
-      <td><b>Project 4: Ikamat Management</b><br/><sub>Access Control & Residency Logistics</sub></td>
-      <td>High-reliability facility and residency management system integrating multi-role authentication, smart card verification, and capacity forecasting.</td>
-      <td><code>C#</code> <code>.NET</code> <code>MySQL</code> <code>Desktop/Web</code></td>
-    </tr>
-    <tr>
-      <td><code>05</code></td>
-      <td><b>Project 5: Skills54 & Mahara</b><br/><sub>High-Load Digital Learning Platform</sub></td>
-      <td>Scalable digital academy & competency verification ecosystem built for concurrent media streaming, interactive track validation, and student performance metrics.</td>
-      <td><code>E-Learning Core</code> <code>PWA</code> <code>Cloud APIs</code></td>
-    </tr>
-    <tr>
-      <td><code>06</code></td>
-      <td><b>Project 6: Nexus IoT & Mihen Stream</b><br/><sub>Real-Time Telemetry & Media Streaming</sub></td>
-      <td>Low-latency smart automation hub paired with an adaptive HLS video streaming engine for media broadcasting and IoT connected hardware ecosystems.</td>
-      <td><code>WebSockets</code> <code>IoT Core</code> <code>HLS</code> <code>Nginx</code></td>
-    </tr>
-  </tbody>
-</table>
+### `01` — Competition Intelligence Engine
+* **System Type:** High-Concurrency Evaluation & Real-Time Scoring Platform
+* **Engineering Focus:** Real-time event telemetry, automated candidate ranking, tamper-proof score validation, digital certificate generation pipelines.
+* **Architecture:** Decoupled service layer backed by high-throughput cache and relational persistence.
+* **Core Technologies:** `PHP / Laravel` · `Redis` · `MySQL` · `REST API` · `WebSockets`
+* **Key Challenges:** Managing concurrent jury evaluations with zero state collision and instantaneous scorecard aggregation.
+* **Engineering Outcome:** Resilient competition platform delivering sub-second real-time scoring and automated verifications.
 
 ---
 
-### 🏆 Engineering Honours & Industry Milestones
+### `02` — Enterprise Operations Platform
+* **System Type:** Multi-Tenant Institutional Resource & Workflow Engine
+* **Engineering Focus:** Granular access governance (RBAC), multi-tier approval workflows, transaction auditing, and institutional inventory lifecycle.
+* **Architecture:** Modular monolith designed with clear domain boundaries for extensible service integration.
+* **Core Technologies:** `Laravel` · `ASP.NET Core` · `MariaDB` · `Redis` · `Nginx`
+* **Key Challenges:** Ensuring strict ACID compliance across complex distributed approval chains with comprehensive audit logging.
+* **Engineering Outcome:** Centralized operational platform streamlining organizational logistics and resource governance.
+
+---
+
+### `03` — Intelligent Guidance Engine
+* **System Type:** Algorithmic Assessment & Profiling Platform
+* **Engineering Focus:** Multi-dimensional skill profiling, automated recommendation heuristics, dynamic assessment builders, and interactive data visualization.
+* **Architecture:** Event-driven evaluation engine with asynchronous background scoring pipelines.
+* **Core Technologies:** `Full-Stack Engine` · `JavaScript` · `REST Services` · `PWA`
+* **Key Challenges:** Delivering adaptive assessment workflows while maintaining responsive client performance on constrained networks.
+* **Engineering Outcome:** Intelligent decision-support platform providing instant analytical scoring and tailored progression paths.
+
+---
+
+### `04` — Residential Operations Platform
+* **System Type:** Facility, Access Control & Occupancy Management Ecosystem
+* **Engineering Focus:** Resident identity verification, smart badge integration, real-time occupancy monitoring, and automated capacity scheduling.
+* **Architecture:** Hybrid service model with multi-platform desktop clients synchronizing with centralized cloud endpoints.
+* **Core Technologies:** `C# / .NET` · `MySQL` · `Security Policies` · `Desktop & Web Core`
+* **Key Challenges:** Maintaining high data consistency across distributed check-in terminals and real-time ledger updates.
+* **Engineering Outcome:** Unified occupancy management system with automated identity validation and real-time reporting.
+
+---
+
+### `05` — Digital Learning Ecosystem
+* **System Type:** High-Load Competency & Digital Content Platform
+* **Engineering Focus:** Scalable course delivery, milestone verification tracks, learner progress analytics, and responsive assessment engines.
+* **Architecture:** Layered microservice modules with distributed CDN asset handling and session state isolation.
+* **Core Technologies:** `PHP / Web Engines` · `PWA Architecture` · `MySQL` · `API Hub`
+* **Key Challenges:** Scaling concurrent interactive evaluation sessions while minimizing database contention during peak activity.
+* **Engineering Outcome:** High-availability learning environment supporting seamless continuous skill validation.
+
+---
+
+### `06` — Connected Systems & Streaming Lab
+* **System Type:** IoT Telemetry Hub & Media Delivery Infrastructure
+* **Engineering Focus:** Low-latency bi-directional sensor streaming, hardware telemetry ingestion, media broadcasting, and automated event triggers.
+* **Architecture:** WebSocket telemetry gateway coupled with an optimized HLS streaming distribution layer.
+* **Core Technologies:** `WebSockets` · `IoT Protocols` · `Nginx RTMP/HLS` · `Linux Daemons`
+* **Key Challenges:** Synchronizing continuous high-frequency telemetry packets with minimal latency overhead and packet loss.
+* **Engineering Outcome:** Stable IoT communication hub providing real-time data visualization and broadcast capabilities.
+
+---
+
+## 🧬 Architecture Mindset
+
+```mermaid
+flowchart TD
+    subgraph Client_Ecosystem [" Client Ecosystem "]
+        Web["Web Application / PWA"]
+        Mobile["Mobile / Multi-Platform"]
+        IoT["Connected Devices / Terminals"]
+    end
+
+    subgraph Security_Gate [" Security & Routing Layer "]
+        Proxy["Nginx Reverse Proxy / WAF"]
+        Auth["Zero-Trust Auth & RBAC Engine"]
+    end
+
+    subgraph Service_Core [" Application & Domain Core "]
+        Gateway["API Gateway & Request Router"]
+        Services["Business Logic & Domain Services"]
+        Workers["Asynchronous Task & Queue Workers"]
+    end
+
+    subgraph Persistence [" Storage & Telemetry Layer "]
+        DB[("Primary Database\nMySQL / MariaDB")]
+        Cache[("In-Memory Cache\nRedis")]
+        Audit[("Audit Log Engine\nImmutable Records")]
+    end
+
+    Web --> Proxy
+    Mobile --> Proxy
+    IoT --> Proxy
+
+    Proxy --> Auth
+    Auth --> Gateway
+    Gateway --> Services
+    Services --> Workers
+
+    Services --> DB
+    Services --> Cache
+    Services --> Audit
+    Workers --> DB
+    Workers --> Cache
+```
+
+---
+
+## 🔐 Security Engineering
+
+* **Identity & Access Governance:** Implementation of fine-grained Role-Based Access Control (RBAC), multi-factor authentication (MFA), and secure session management.
+* **Defensive API Architecture:** Strict input sanitization, parameterized querying to eliminate SQL injections, rate-limiting, and hardened Cross-Origin Resource Sharing (CORS) rules.
+* **Auditability & Forensics:** Immutable transaction tracking, secure audit logging of administrative events, and timestamped state mutations.
+* **Security Headers & Transport:** Comprehensive Content Security Policy (CSP), Strict-Transport-Security (HSTS), and end-to-end TLS encryption.
+
+---
+
+## ⚙️ Performance Engineering
+
+* **Query & Index Optimization:** Schema indexing, query execution plan analysis, and elimination of N+1 overhead via eager loading.
+* **Multi-Tier Caching:** Strategic Redis caching for session stores, high-traffic lookups, and calculated aggregate metrics.
+* **Asynchronous Processing:** Offloading computationally intensive tasks, report generation, and notifications to background queue workers.
+* **Server Tuning:** Tailored Nginx buffer configurations, PHP-FPM pool optimization, and automated resource cleanup jobs.
+
+---
+
+## 🏆 Engineering Milestones
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  🥇 1ST PLACE WINNER — National Software Development & Engineering Hackathon │
-│  📜 Certified Specialist — Multi-Platform Systems & Software Engineering      │
-│  ☁️ Cloud Architecture Credentials — Google Cloud • Huawei • Microsoft       │
-│  ⚡ Innovation Accelerator Alumnus — High-Tech Venture Development           │
-└──────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  🥇 1ST PLACE WINNER — National Software Development & Engineering Hackathon    ║
+║  📜 Certified Specialist — Multi-Platform Systems & Software Architecture        ║
+║  ☁️ Cloud Architecture Competencies — Google Cloud • Huawei • Microsoft Ecosystem║
+║  🚀 Technology Accelerator Alumnus — High-Impact Venture Innovation Programs     ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-### 📊 GitHub Activity & System Metrics
+## 📡 Current Focus
 
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=VEXONCODE404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=00E5FF&text_color=E0E1DD&icon_color=00E5FF" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEXONCODE404&layout=compact&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=00E5FF&text_color=E0E1DD" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VEXONCODE404&theme=tokyonight&hide_border=true&background=090D16&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="Streak Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+* **Distributed Cloud Systems:** Scaling microservice communication patterns and asynchronous event brokers.
+* **High-Performance APIs:** Engineering ultra-low-latency backend endpoints and streaming architectures.
+* **Enterprise Security Standards:** Hardening zero-trust identity pipelines and automated compliance auditing.
+* **Modern Multi-Platform Architecture:** Building unified cross-platform solutions across web, desktop, and embedded interfaces.
 
 ---
 
-### 📈 Contribution Heatmap & Dynamics
+## 🎯 Engineering Philosophy
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VEXONCODE404&theme=tokyo-night&bg_color=090D16&color=00E5FF&line=7928CA&point=00E5FF&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
+> *"Build systems that remain understandable after they become complex."*
+
+> *"Simplicity is an engineering advantage."*
 
 ---
 
-### 🌐 Transmission & Connectivity
+## 🌐 Transmission & Connectivity
 
 <div align="center">
 
-  <p><b>Ready to engineer scalable platforms or consult on high-performance architectures?</b></p>
+  <p><b>Interested in collaborating on distributed systems, enterprise platforms, or system architecture?</b></p>
 
   <a href="https://github.com/VEXONCODE404">
-    <img src="https://img.shields.io/badge/GitHub-VEXONCODE404-00E5FF?style=for-the-badge&logo=github&logoColor=090D16" />
+    <img src="https://img.shields.io/badge/GitHub-VEXONCODE404-00E5FF?style=for-the-badge&logo=github&logoColor=090D16" alt="GitHub Profile" />
   </a>
   &nbsp;
   <a href="https://github.com/VEXONCODE404?tab=repositories">
-    <img src="https://img.shields.io/badge/Code_Repositories-Explore-7928CA?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/VEXONCODE404">
-    <img src="https://img.shields.io/badge/Direct_Channel-Connect-FFB703?style=for-the-badge&logo=telegram&logoColor=090D16" />
+    <img src="https://img.shields.io/badge/Repositories-Explore%20Code-7928CA?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
   </a>
 
 </div>
@@ -206,5 +270,5 @@ interface LeadEngineer {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,60:1B263B,100:090D16&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:1E293B,100:090D16&height=60&section=footer" width="100%" alt="Footer" />
 </div>
